@@ -99,7 +99,7 @@ Sprint 1 was dedicated to project planning, team formation, and initial setup. N
 - Team formation and role assignment (2 pts) ✓
 - Technology stack decisions (5 pts) ✓
 - Project management tool setup - Jira (2 pts) ✓
-- UI/UX design tool setup - Figma (2 pts) ✓
+- UI/UX design tool setup and creating basic UI mockup - Figma (2 pts) ✓
 - Product backlog creation with epics and user stories (8 pts) ✓
 - Development environment setup guidelines (3 pts) ✓
 - README documentation creation (3 pts) ✓
@@ -140,7 +140,6 @@ The team successfully established the project foundation during Sprint 1. All pl
 - Begin actual development work
 - Implement core authentication features
 - Set up Firebase project
-- Create initial UI mockups in Figma
 
 ### Other Notes:
 **Sprint 2 Focus Areas:**
