@@ -59,10 +59,17 @@ ThinkFirst's target audience consists of students aged 8-18 and their parents. S
 *No screenshots available - Planning phase only*
 
 ### Sprint 1 - Sprint Board Update Screenshots
-*[Sprint board screenshot to be added]*
+<table>
+  <tr>
+    <td align="center"><b>Jira Table View</b></td>
+    <td align="center"><b>Jira Board View</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Sprint1/jira-table.png" width="100%" /></td>
+    <td><img src="screenshots/Sprint1/jira-board.png" width="100%" /></td>
+  </tr>
+</table>
 
-### Sprint 1 - Burndown Chart
-*Planning sprint - Story points assigned to planning tasks*
 
 ### Sprint Notes:
 Sprint 1 was dedicated to project planning, team formation, and initial setup. No development work was undertaken during this sprint.
@@ -91,7 +98,7 @@ Sprint 1 was dedicated to project planning, team formation, and initial setup. N
 
 **Point Completion Logic**: Sprint 1 focused on planning activities with a total of 30 story points. All planning tasks were completed successfully. Development work will begin in Sprint 2 (100 points) and continue through Sprint 3 (100 points). Planning Poker method was used for story point estimation.
 
-**Product Backlog URL**: [Jira backlog link to be added]
+**Product Backlog URL**: [ThinkFirst AI Jira Board](https://thinkfirstai.atlassian.net/jira/software/projects/THIN/boards/35/backlog)
 
 ### Sprint Review:
 The team successfully established the project foundation during Sprint 1. All planning deliverables were completed, including project concept definition, technology decisions, and comprehensive documentation. The product backlog has been populated with user stories for the next two sprints.
