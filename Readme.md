@@ -70,7 +70,27 @@ ThinkFirst's target audience consists of students aged 8-18 and their parents. S
   </tr>
 </table>
 
+### Sprint 1 - Figma Design
+![Figma Design](screenshots/Sprint1/figma-design1.png)
 
+### Sprint 1 - Daily Scrum
+The team established daily scrum meetings to communication and progress tracking.
+<table>
+  <tr>
+    <td align="center"><b>Meet 1</b></td>
+    <td align="center"><b>Meet 2</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Sprint1/meet1.png" width="100%" /></td>
+    <td><img src="screenshots/Sprint1/meet2.png" width="100%" /></td>
+  </tr>
+</table>
+
+**Daily Scrum Details:**
+- **Meeting Platform**: Google Meet for formal daily scrums
+- **Communication Channel**: WhatsApp for day-to-day discussions
+- **Meeting Duration**: 15 minutes
+  
 ### Sprint Notes:
 Sprint 1 was dedicated to project planning, team formation, and initial setup. No development work was undertaken during this sprint.
 
@@ -128,4 +148,3 @@ The team successfully established the project foundation during Sprint 1. All pl
 - User authentication implementation
 - Basic chat UI development
 - Initial Gemini API integration
-
