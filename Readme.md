@@ -9,14 +9,16 @@
 ### Team Members
 | Name | Title | Socials |
 |------|-------|---------|
-| Gökdeniz Gündüz | Scrum Master | [LinkedIn](www.linkedin.com/in/gokdeniz-gunduz) / [GitHub](https://github.com/GokdenizGunduz)
+| Gökdeniz Gündüz | Scrum Master | [LinkedIn](https://www.linkedin.com/in/gokdeniz-gunduz) / [GitHub](https://github.com/GokdenizGunduz) |
 | Mert Cihan Bayır | Product Owner | [LinkedIn](https://www.linkedin.com/in/mertcihanbayır/) / [GitHub](https://github.com/MertCihan74) |
-| Sefa Nur Yiğit | Developer | [LinkedIn](www.linkedin.com/in/sefanur-yiğit) / [GitHub](https://github.com/ssefanurygt)] |
+| Sefa Nur Yiğit | Developer | [LinkedIn](https://www.linkedin.com/in/sefanur-yiğit) / [GitHub](https://github.com/ssefanurygt) |
 | Sümeyye Açıkgöz | Developer | [LinkedIn](https://www.linkedin.com/in/s%C3%BCmeyye-a%C3%A7%C4%B1kg%C3%B6z-a3a22b2b2/) / [GitHub](https://github.com/sumeyyeacikgoz) |
 | Mehmet Yusuf Bayat | Developer | [LinkedIn/GitHub] |
 
 ### Product Description
 ThinkFirst is an innovative AI learning platform designed to enhance analytical thinking skills in children and young adults. Unlike traditional AI assistants, it employs the Socratic method to encourage users to think critically rather than providing direct answers. The platform asks age-appropriate questions tailored to the user's knowledge level, helping them reach solutions independently. This approach promotes active learning and problem-solving skills instead of passive information consumption.
+
+While ThinkFirst appears to be an educational project, it also has significant positive impacts in the healthcare domain alongside education. By preventing young people and children from reaching direct answers, it aims to prevent mental health issues such as cognitive decline and memory problems. The platform encourages active brain engagement, which is crucial for maintaining cognitive health and preventing the deterioration of thinking abilities that can result from over-reliance on instant information access.
 
 ### Product Features
 
@@ -60,30 +62,34 @@ ThinkFirst's target audience consists of students aged 8-18 and their parents. S
 *[Sprint board screenshot to be added]*
 
 ### Sprint 1 - Burndown Chart
-*Planning sprint - No story points assigned*
+*Planning sprint - Story points assigned to planning tasks*
 
 ### Sprint Notes:
 Sprint 1 was dedicated to project planning, team formation, and initial setup. No development work was undertaken during this sprint.
 
 **Completed Planning Activities:**
-- Project concept finalized: Socratic learning assistant for children
-- Team roles assigned and responsibilities defined
-- Technology stack decisions made:
-  - **Kotlin** for Android development
-  - **Firebase** ecosystem for backend services
-  - **Google Gemini API** for AI integration
-  - **Jetpack Compose** for UI development
-  - **Hilt** for dependency injection
-- Project management tool selected: **Jira**
-- UI/UX design tool selected: **Figma**
-- Product backlog created with all epics and user stories
-- Development environment setup guidelines prepared
-- README documentation created
-- GitHub repository initialized
+- Project concept definition (3 pts) ✓
+- Team formation and role assignment (2 pts) ✓
+- Technology stack decisions (5 pts) ✓
+- Project management tool setup - Jira (2 pts) ✓
+- UI/UX design tool setup - Figma (2 pts) ✓
+- Product backlog creation with epics and user stories (8 pts) ✓
+- Development environment setup guidelines (3 pts) ✓
+- README documentation creation (3 pts) ✓
+- GitHub repository initialization (2 pts) ✓
 
-**Expected point completion within Sprint**: 0 points (Planning Sprint)
+**Technology Stack Finalized:**
+- **Kotlin** for Android development
+- **Firebase** ecosystem for backend services
+- **Google Gemini API** for AI integration
+- **Jetpack Compose** for UI development
+- **Hilt** for dependency injection
 
-**Point Completion Logic**: Sprint 1 was a planning sprint with no story points. Development work will begin in Sprint 2 (100 points) and continue through Sprint 3 (100 points). Planning Poker method will be used for story point estimation in future sprints.
+**Expected point completion within Sprint**: 30 points
+
+**Completed points**: 30 points (100% completion)
+
+**Point Completion Logic**: Sprint 1 focused on planning activities with a total of 30 story points. All planning tasks were completed successfully. Development work will begin in Sprint 2 (100 points) and continue through Sprint 3 (100 points). Planning Poker method was used for story point estimation.
 
 **Product Backlog URL**: [Jira backlog link to be added]
 
@@ -95,7 +101,6 @@ The team successfully established the project foundation during Sprint 1. All pl
 ### Sprint Retrospective:
 **What went well:**
 - Clear project vision established
-- Effective team communication during planning phase
 - Comprehensive technology research completed
 - Well-structured product backlog created
 
@@ -116,3 +121,4 @@ The team successfully established the project foundation during Sprint 1. All pl
 - User authentication implementation
 - Basic chat UI development
 - Initial Gemini API integration
+
