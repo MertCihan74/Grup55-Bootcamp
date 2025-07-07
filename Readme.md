@@ -12,7 +12,7 @@
 | Gökdeniz Gündüz | Scrum Master | [LinkedIn](www.linkedin.com/in/gokdeniz-gunduz) / [GitHub](https://github.com/GokdenizGunduz)
 | Mert Cihan Bayır | Product Owner | [LinkedIn](https://www.linkedin.com/in/mertcihanbayır/) / [GitHub](https://github.com/MertCihan74) |
 | Sefa Nur Yiğit | Developer | [LinkedIn](www.linkedin.com/in/sefanur-yiğit) / [GitHub](https://github.com/ssefanurygt)] |
-| Sümeyye Açıkgöz | Developer | [LinkedIn](https://www.linkedin.com/in/sümeyye-açıkgöz) / [GitHub](https://github.com/sumeyyeacikgoz) |
+| Sümeyye Açıkgöz | Developer | [LinkedIn](https://www.linkedin.com/in/s%C3%BCmeyye-a%C3%A7%C4%B1kg%C3%B6z-a3a22b2b2/) / [GitHub](https://github.com/sumeyyeacikgoz) |
 | Mehmet Yusuf Bayat | Developer | [LinkedIn/GitHub] |
 
 ### Product Description
