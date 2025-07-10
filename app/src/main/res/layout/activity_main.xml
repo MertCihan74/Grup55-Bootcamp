@@ -65,8 +65,7 @@
             <androidx.cardview.widget.CardView
                 android:id="@+id/quickAskCard"
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
+                android:layout_height="wrap_content"
                 android:layout_marginBottom="16dp"
                 app:cardCornerRadius="16dp"
                 app:cardElevation="8dp"
@@ -74,7 +73,7 @@
 
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:orientation="vertical"
                     android:padding="24dp"
                     android:gravity="center">
@@ -101,10 +100,11 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/quick_ask_description"
-                        android:textSize="14sp"
-                        android:textColor="@color/text_secondary"
+                        android:textSize="16sp"
+                        android:textColor="@color/text_primary"
                         android:gravity="center"
-                        android:lineSpacingExtra="4dp" />
+                        android:lineSpacingExtra="6dp"
+                        android:alpha="0.9" />
 
                 </LinearLayout>
 
@@ -114,8 +114,7 @@
             <androidx.cardview.widget.CardView
                 android:id="@+id/thinkFirstCard"
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
+                android:layout_height="wrap_content"
                 android:layout_marginBottom="16dp"
                 app:cardCornerRadius="16dp"
                 app:cardElevation="8dp"
@@ -123,7 +122,7 @@
 
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:orientation="vertical"
                     android:padding="24dp"
                     android:gravity="center">
@@ -131,9 +130,9 @@
                     <ImageView
                         android:layout_width="80dp"
                         android:layout_height="80dp"
-                        android:src="@drawable/ic_brain"
+                        android:src="@mipmap/ic_launcher"
                         android:background="@drawable/circle_background_accent"
-                        android:padding="20dp"
+                        android:padding="12dp"
                         android:layout_marginBottom="16dp"
                         android:contentDescription="@string/think_first" />
 
@@ -150,10 +149,11 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/think_first_description"
-                        android:textSize="14sp"
-                        android:textColor="@color/text_secondary"
+                        android:textSize="16sp"
+                        android:textColor="@color/text_primary"
                         android:gravity="center"
-                        android:lineSpacingExtra="4dp" />
+                        android:lineSpacingExtra="6dp"
+                        android:alpha="0.9" />
 
                 </LinearLayout>
 
@@ -163,15 +163,14 @@
             <androidx.cardview.widget.CardView
                 android:id="@+id/comingSoonCard"
                 android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
+                android:layout_height="wrap_content"
                 app:cardCornerRadius="16dp"
                 app:cardElevation="8dp"
                 app:cardBackgroundColor="@color/white">
 
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
+                    android:layout_height="wrap_content"
                     android:orientation="vertical"
                     android:padding="24dp"
                     android:gravity="center">
@@ -198,10 +197,11 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="@string/coming_soon_description"
-                        android:textSize="14sp"
-                        android:textColor="@color/text_secondary"
+                        android:textSize="16sp"
+                        android:textColor="@color/text_primary"
                         android:gravity="center"
-                        android:lineSpacingExtra="4dp" />
+                        android:lineSpacingExtra="6dp"
+                        android:alpha="0.9" />
 
                 </LinearLayout>
 

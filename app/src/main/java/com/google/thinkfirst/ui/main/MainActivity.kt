@@ -8,6 +8,7 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.thinkfirst.R
 import com.google.thinkfirst.databinding.ActivityMainBinding
 import com.google.thinkfirst.ui.auth.LoginActivity
+import com.google.thinkfirst.ui.profile.ProfileActivity
 import com.google.thinkfirst.ui.quickask.QuickAskActivity
 import com.google.thinkfirst.ui.thinkfirst.ThinkFirstActivity
 
@@ -61,8 +62,7 @@ class MainActivity : AppCompatActivity() {
     
     private fun setupProfileButton() {
         binding.profileButton.setOnClickListener {
-            // TODO: Navigate to profile screen or show profile dialog
-            Toast.makeText(this, "Profile feature coming soon!", Toast.LENGTH_SHORT).show()
+            startActivity(Intent(this, ProfileActivity::class.java))
         }
     }
 } 

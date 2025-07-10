@@ -46,6 +46,16 @@
             android:exported="false"
             android:theme="@style/Theme.ThinkFirstAI" />
             
+        <activity
+            android:name=".ui.profile.ProfileActivity"
+            android:exported="false"
+            android:theme="@style/Theme.ThinkFirstAI" />
+            
+        <activity
+            android:name=".ui.profile.EditProfileActivity"
+            android:exported="false"
+            android:theme="@style/Theme.ThinkFirstAI" />
+            
     </application>
 
 </manifest>
