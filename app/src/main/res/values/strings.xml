@@ -1,3 +1,54 @@
 <resources>
     <string name="app_name">Think First AI</string>
+    
+    <!-- Auth Strings -->
+    <string name="app_logo">App Logo</string>
+    <string name="login_subtitle">Sign in to your account</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_text">or</string>
+    <string name="register_button">Create Account</string>
+    
+    <!-- Register Strings -->
+    <string name="create_account">Create Account</string>
+    <string name="register_subtitle">Create your new account</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="terms_conditions">I agree to the Terms and Conditions and Privacy Policy</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="already_have_account">Already have an account?</string>
+    
+    <!-- Main Screen Strings -->
+    <string name="profile">Profile</string>
+    <string name="welcome_message">Welcome to Think First AI</string>
+    <string name="quick_ask">Quick Ask</string>
+    <string name="quick_ask_description">Ask any question and get instant answers from our AI assistant</string>
+    <string name="think_first">Think First</string>
+    <string name="think_first_description">Deep thinking and analysis for complex problems</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="coming_soon_description">New features are on the way. Stay tuned!</string>
+    
+    <!-- reCAPTCHA -->
+    <string name="recaptcha_site_key">YOUR_RECAPTCHA_SITE_KEY</string>
+    
+    <!-- Error Messages -->
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_invalid_username">Username must be at least 3 characters</string>
+    <string name="error_invalid_password">Password must be at least 6 characters</string>
+    <string name="error_passwords_not_match">Passwords do not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_terms_not_accepted">You must accept the terms and conditions</string>
+    <string name="error_network">Network connection error</string>
+    <string name="error_auth_failed">Authentication failed</string>
+    <string name="error_registration_failed">Registration failed</string>
+    <string name="error_username_exists">Username already exists</string>
+    <string name="error_recaptcha_failed">reCAPTCHA verification failed</string>
+    
+    <!-- Success Messages -->
+    <string name="success_login">Login successful</string>
+    <string name="success_registration">Registration successful</string>
+    <string name="success_password_reset">Password reset email sent</string>
 </resources>

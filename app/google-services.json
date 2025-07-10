@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856228008572",
+    "project_id": "thinkfirst-51c52",
+    "storage_bucket": "thinkfirst-51c52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856228008572:android:28bdea82546049f93faff9",
+        "android_client_info": {
+          "package_name": "com.google.thinkfirst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIOpSiYW1lRwWryf0lrAB5gs_uwXxJVzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
