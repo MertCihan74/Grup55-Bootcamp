@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648564006714",
+    "project_id": "kotlinapp-25580",
+    "storage_bucket": "kotlinapp-25580.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648564006714:android:8bbd109447793c9c233a03",
+        "android_client_info": {
+          "package_name": "com.example.thinkfirst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVbQk-sNIj3tSpoNMgV9-rMQHK6iC1vBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
