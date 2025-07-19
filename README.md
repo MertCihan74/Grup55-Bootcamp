@@ -147,3 +147,95 @@ The team successfully established the project foundation during Sprint 1. All pl
 - User authentication implementation
 - Basic chat UI development
 - Initial Gemini API integration
+
+## 📊 Sprint 2 - Core Development
+
+### Sprint 2 - App Screenshots
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/Sprint2/signin.jpg" width="32%" /></td>
+    <td align="center"><img src="screenshots/Sprint2/mainpage.jpg" width="32%" /></td>
+    <td align="center"><img src="screenshots/Sprint2/thinkfirstai.jpg" width="32%" /></td>
+  </tr>
+</table>
+
+### Sprint 2 - Sprint Board Update Screenshots
+![Sprint 2 Board](screenshots/Sprint2/jiratable.png)
+
+### Sprint 2 - Daily Scrum
+Due to team members' conflicting schedules and various commitments during this sprint period, formal daily scrum meetings could not be conducted. Development work was carried out independently with asynchronous communication through WhatsApp. The team acknowledges the importance of regular scrum meetings and plans to implement a more structured meeting schedule in Sprint 3.
+
+**Communication Method:**
+- **Primary Channel**: WhatsApp for asynchronous updates
+- **Work Distribution**: Individual task completion with periodic status updates
+
+### Sprint Notes:
+Sprint 2 focused on implementing core functionality and establishing the foundation for the ThinkFirst application.
+
+**Completed Development Tasks:**
+- Create Android project with Kotlin (3 pts) ✓
+- Implement Firebase Authentication (8 pts) ✓
+- Design and implement registration screen (8 pts) ✓
+- Design and implement login screen (7 pts) ✓
+- Create Quick ask and Think First activities (10 pts) ✓
+- Implement profile creation/edit screen (8 pts) ✓
+- Design chat UI (10 pts) ✓
+- Integrate Gemini API (13 pts) ✓
+- Create basic Socratic prompt templates (10 pts) ✓
+- Implement message send/receive functionality (9 pts) ✓
+- Add loading states and error handling (6 pts) ✓
+- Basic unit tests for core features (6 pts) ✓
+- Update README.md (2 pts) ✓
+
+**Key Achievements:**
+- Successfully integrated Firebase for user authentication and data storage
+- Implemented core UI screens with Jetpack Compose
+- Established connection with Gemini API for AI-powered responses
+- Created foundation for Socratic questioning methodology
+- Implemented two main activity modes: Quick Ask and Think First
+
+**Expected point completion within Sprint**: 100 points
+
+**Completed points**: 100 points (100% completion)
+
+**Point Completion Logic**: Sprint 2 targets 100 points focusing on core functionality development. Tasks include Firebase setup, authentication implementation, basic UI development, and initial Gemini API integration.
+
+**Product Backlog URL**: [ThinkFirst AI Jira Board](https://thinkfirstai.atlassian.net/jira/software/projects/THIN/boards/35/backlog)
+
+### Sprint Review:
+Due to various academic and personal commitments, team members faced significant time constraints during Sprint 2. Despite these challenges, the core development work was carried forward to ensure project continuity. The sprint deliverables were completed with individual effort, demonstrating commitment to the project goals even under challenging circumstances.
+
+**Key Outcomes:**
+- Core authentication system successfully implemented
+- Basic chat functionality operational with Gemini API integration
+- User interface screens completed for main user flows
+- Foundation laid for Socratic questioning methodology
+
+**Sprint Review Participants**: Mert Cihan Bayır
+
+### Sprint Retrospective:
+**What went well:**
+- Project reached the targeted development milestone despite challenges
+- Core features were successfully implemented as planned
+- Technical architecture proved to be solid and scalable
+- Firebase integration worked smoothly without major issues
+- UI/UX design met the intended user-friendly approach
+
+**What could be improved:**
+- Team collaboration was limited due to time constraints
+- Knowledge gaps in technical stack among some team members hindered contribution
+- Need for better work distribution based on team members' availability
+- Lack of regular communication affected team synchronization
+- Documentation of code could be more comprehensive for team onboarding
+
+**Action items for Sprint 3:**
+- Establish more flexible meeting times to accommodate all team members
+- Create technical documentation and tutorials for team knowledge sharing
+- Implement pair programming sessions to bridge knowledge gaps
+- Set up clearer task assignments based on individual availability
+### Other Notes:
+**Sprint 3 Focus Areas:**
+- Advanced features implementation
+- UI/UX polish
+- Testing and optimization
+- Final deployment preparation
