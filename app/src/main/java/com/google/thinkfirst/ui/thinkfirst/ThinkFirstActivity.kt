@@ -53,6 +53,9 @@ class ThinkFirstActivity : AppCompatActivity() {
     private fun setupViewModel() {
         viewModel = ViewModelProvider(this)[ThinkFirstViewModel::class.java]
         
+        // Initialize SharedPreferences
+        viewModel.initializeSharedPreferences(this)
+        
         // Observe messages
         viewModel.messages.observe(this) { messages ->
             chatAdapter.setMessages(messages)
@@ -71,6 +74,19 @@ class ThinkFirstActivity : AppCompatActivity() {
                 Toast.makeText(this, it, Toast.LENGTH_LONG).show()
                 viewModel.clearError()
             }
+        }
+        
+        // Observe daily question count
+        viewModel.dailyQuestionCount.observe(this) { count ->
+            updateQuestionCountDisplay(count)
+        }
+    }
+    
+    private fun updateQuestionCountDisplay(count: Int) {
+        if (count == 0) {
+            binding.dailyQuestionCount.text = "You haven't asked any questions today"
+        } else {
+            binding.dailyQuestionCount.text = "You've asked questions for $count consecutive days"
         }
     }
     
