@@ -31,20 +31,11 @@ Provides interaction with appropriate language and complexity levels based on us
 **Interactive Dialog System:**
 Creates a dynamic conversation environment offering step-by-step learning experiences.
 
-**Learning Progress Tracking:**
-Tracks and reports user's thinking skill development using Firebase Firestore.
-
 **Multi-Subject Support:**
 Offers assistance across various subjects including mathematics, science, social studies, and language learning.
 
-**Parent Control Panel:**
-Secure panel with Firebase Authentication for parents to monitor their children's learning progress.
-
 **Gamification Elements:**
-Achievement badges, progress bars, and reward systems synchronized with Firebase Realtime Database.
-
-**Safe Content Filtering:**
-Automatic filtering of age-inappropriate content.
+Daily question counter tracks and limits user interactions, encouraging consistent but measured usage. This feature is synchronized with Firebase Realtime Database to maintain usage statistics across sessions.
 
 ### Target Audience
 ThinkFirst's target audience consists of students aged 8-18 and their parents. Specifically:
