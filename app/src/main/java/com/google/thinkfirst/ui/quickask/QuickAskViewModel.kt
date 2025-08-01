@@ -50,7 +50,7 @@ class QuickAskViewModel : ViewModel() {
                             temperature = 0.7f
                             topK = 40
                             topP = 0.95f
-                            maxOutputTokens = 1024
+                            maxOutputTokens = 2048
                         }
                     )
                     Log.d("GeminiInit", "Successfully initialized model: $modelName")
@@ -104,9 +104,11 @@ class QuickAskViewModel : ViewModel() {
                     return@launch
                 }
                 
-                // Send only the user's message as prompt, no additional text
+                // Create a simple prompt to avoid token limits
+                val prompt = "Answer this question briefly and clearly: $userMessage"
+                
                 Log.d("GeminiAPI", "Sending message: $userMessage")
-                val response = model.generateContent(userMessage)
+                val response = model.generateContent(prompt)
                 val responseText = response.text ?: "I'm sorry, I couldn't generate a response."
                 
                 Log.d("GeminiAPI", "Received response: $responseText")
