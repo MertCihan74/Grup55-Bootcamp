@@ -255,11 +255,22 @@ Due to various academic and personal commitments, team members faced significant
 ![Sprint 3 Board](screenshots/Sprint3/jiraboard.png)
 
 ### Sprint 3 - Daily Scrum
-During Sprint 3, the development work continued as an individual effort without formal team meetings or regular communication sessions. All tasks were handled by a single team member due to continued availability challenges with the rest of the team.
+The team established daily scrum meetings to communication and progress tracking.
+<table>
+  <tr>
+    <td align="center"><b>Meet 1</b></td>
+    <td align="center"><b>Meet 2</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Sprint3/meet1.png" width="100%" /></td>
+    <td><img src="screenshots/Sprint3/meet2.png" width="100%" /></td>
+  </tr>
+</table>
 
-**Communication Method:**
-- **Primary Channel**: None
-- **Work Distribution**: All tasks completed by individual effort
+**Daily Scrum Details:**
+- **Meeting Platform**: Google Meet for formal daily scrums
+- **Communication Channel**: WhatsApp for day-to-day discussions
+- **Meeting Duration**: 15 minutes
 
 ### Sprint Notes:
 Sprint 3 focused on polishing the application, implementing final features, and preparing for delivery.
