@@ -233,6 +233,15 @@ Due to various academic and personal commitments, team members faced significant
 
 ## 📊 Sprint 3 - Final Polish & Delivery
 
+### Sprint 3 - App Screenshots
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/Sprint2/signin.jpg" width="32%" /></td>
+    <td align="center"><img src="screenshots/Sprint2/mainpage.jpg" width="32%" /></td>
+    <td align="center"><img src="screenshots/Sprint2/thinkfirstai.jpg" width="32%" /></td>
+  </tr>
+</table>
+
 ### Sprint 3 - App Demo
 **Project Demo Video**: [Watch ThinkFirst AI Demo](https://youtube.com/shorts/CZr8mFpOPQE?feature=share)
 
